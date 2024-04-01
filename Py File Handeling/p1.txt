@@ -1,0 +1,2 @@
+Program 6-1 shows a complete Python program that opens an output file, writes data to 
+ale amount from the file and add it to an accumulator.

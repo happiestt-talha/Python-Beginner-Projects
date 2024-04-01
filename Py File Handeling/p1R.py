@@ -1,0 +1,6 @@
+fi=open('p1.txt','r')
+st=fi.readline()
+st2=fi.readline()
+print(st)
+print(st2)
+fi.close()

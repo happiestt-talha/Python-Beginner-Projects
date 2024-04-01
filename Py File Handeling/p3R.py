@@ -1,0 +1,5 @@
+fi = open('p3.txt', 'r')
+num = fi.read()
+b = int(num)
+print(type(b))
+fi.close()
